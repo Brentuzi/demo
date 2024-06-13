@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\demo\demo\bin\Debug\demo.exe.config
+C:\Users\user\source\repos\demo\demo\bin\Debug\demo.exe
+C:\Users\user\source\repos\demo\demo\bin\Debug\demo.pdb
+C:\Users\user\source\repos\demo\demo\obj\Debug\demo.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\demo\demo\obj\Debug\demo.Auth.resources
+C:\Users\user\source\repos\demo\demo\obj\Debug\demo.Properties.Resources.resources
+C:\Users\user\source\repos\demo\demo\obj\Debug\demo.csproj.GenerateResource.cache
+C:\Users\user\source\repos\demo\demo\obj\Debug\demo.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\demo\demo\obj\Debug\demo.exe
+C:\Users\user\source\repos\demo\demo\obj\Debug\demo.pdb
+C:\Users\user\source\repos\demo\demo\obj\Debug\demo.Reg.resources
+C:\Users\user\source\repos\demo\demo\obj\Debug\demo.Main.resources
